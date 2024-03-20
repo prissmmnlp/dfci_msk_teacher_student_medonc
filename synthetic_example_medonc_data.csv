@@ -1,0 +1,429 @@
+﻿claude3_sonnet_prompt,text
+"A patient with a history of lung cancer is seen in follow up by his medical oncologist. Surveillance imaging shows no evidence of disease. Generate a lengthy, detailed synthetic progress note for that encounter, including an oncologic history, current symptoms, multi-system physical exam, extensive laboratory studies, imaging reports, and an assessment/plan.","PROGRESS NOTE
+
+Patient: John Doe
+Date of Visit: 03/19/2024
+
+CHIEF COMPLAINT: Follow-up for lung cancer
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Doe is a 67-year-old male with a history of non-small cell lung cancer (adenocarcinoma), initially diagnosed in July 2021 after presenting with cough, dyspnea, and weight loss. He underwent:
+
+Right upper lobe lobectomy in August 2021 (pT2aN1M0, stage IIB)
+Adjuvant chemotherapy with cisplatin/pemetrexed completed December 2021
+Consolidated radiation therapy to the chest in February 2022
+He has been receiving routine surveillance with physical exams and imaging every 3-6 months. Recent PET/CT scan on 03/05/2024 showed no evidence of recurrent disease.
+
+CURRENT MEDICATIONS:
+
+XXXXXXX
+ALLERGIES:
+
+No known drug allergies
+SOCIAL HISTORY:
+
+40 pack-year former smoker, quit in 2020
+Occupational exposure to asbestos as a construction worker for 25 years
+Married, lives with wife
+Denies alcohol or recreational drug use
+FAMILY HISTORY:
+
+Mother had breast cancer at age 70
+Father had coronary artery disease
+REVIEW OF SYSTEMS:
+General: Denies fever, chills, weight changes
+
+HEENT: Denies visual changes, hearing loss, oral lesions
+Respiratory: Mild residual dyspnea on exertion, nonproductive cough
+
+Cardiovascular: Denies chest pain, palpitations
+
+Gastrointestinal: Good appetite, no abdominal pain, no changes in bowel habits
+Genitourinary: No dysuria, hematuria, urinary frequency
+
+Musculoskeletal: Some chest wall discomfort at surgical site
+Neurological: Denies headaches, numbness, tingling, weakness
+Psychiatric: Mood is generally good, denies depression or anxiety
+
+PHYSICAL EXAM:
+Vitals: T 98.1 F, BP 132/78, HR 74, RR 14, O2 sat 96% on RA
+General: Well-appearing, in no acute distress
+Head and Neck: Normocephalic, atraumatic, moist mucous membranes
+Lungs: Slightly diminished breath sounds right upper lung, otherwise clear
+
+Cardiovascular: Regular rhythm, normal S1/S2, no murmurs/gallops/rubs
+Abdomen: Soft, nontender, normoactive bowel sounds
+Extremities: No edema, pulses palpable, no clubbing/cyanosis
+Skin: Mature surgical scar over right chest wall, no lesions
+
+Neuro: Alert and oriented x3, CN 2-12 intact, no focal deficits
+
+LABORATORY STUDIES:
+CBC: WBC 6.8, Hgb 14.2, Plt 210 (all within normal limits)
+
+CMP: Na 140, K 4.3, Cl 102, HCO3 26, BUN 18, Cr 1.0, glucose 96 (normal)
+LFTs: Total protein 7.1, albumin 4.2, total bilirubin 0.6, AST 24, ALT 32, alk phos 76 (normal)
+
+IMAGING STUDIES:
+PET/CT Chest/Abdomen/Pelvis (03/05/2024):
+
+No fluorodeoxyglucose-avid lesions in the chest, abdomen, or pelvis to suggest recurrent malignancy
+Postoperative changes in the right lung apex with mild volume loss
+No hilar/mediastinal lymphadenopathy
+No visceral organ lesions or bone metastases Impression: No radiographic evidence of recurrent disease
+ASSESSMENT AND PLAN:
+
+Non-small cell lung cancer, status post right upper lobectomy, adjuvant chemo/radiation - currently with no evidence of disease
+Discussed findings and excellent prognosis at this point
+Recommend continued routine surveillance with history/physical exam, labs, CT chest q6 months
+Mild exertional dyspnea - likely due to reduced pulmonary reserve post-surgery
+Consider pulmonary rehab for symptomatic management
+Tobacco abuse counseling reinforced importance of smoking cessation
+Surgical scar - Well-healed, no signs of infection
+Continue scar massage/desensitization
+Occupational asbestos exposure
+Recommend annual screening for malignant pleural mesothelioma with low-dose CT chest
+FOLLOW-UP:
+
+Return to clinic in 3 months for re-evaluation
+Call promptly for any new/worsening symptoms
+Maintain healthy lifestyle with proper nutrition, exercise, smoking cessation
+Discussed details of case and plan of care with patient and his wife who verbalized understanding. All questions addressed."
+"A patient with metastatic breast cancer with metastases to bone and liver is seen in follow up by her medical oncologist. Restaging imaging shows disease progression. Generate a lengthy, detailed synthetic progress note for that encounter, including an oncologic history, current symptoms, multi-system physical exam, extensive laboratory studies, imaging reports, and an assessment/plan.","Patient Name: Jane Doe
+MRN: 123456
+Date of Visit: 03/19/2024
+
+CHIEF COMPLAINT:
+Follow-up for metastatic breast cancer
+
+HISTORY OF PRESENT ILLNESS:
+Ms. Doe is a 58-year-old female with metastatic estrogen receptor (ER) positive, HER2 negative invasive ductal carcinoma of the right breast, initially diagnosed in May 2021. She presented at that time with a 3 cm right breast mass and ipsilateral axillary lymphadenopathy. Biopsy confirmed the diagnosis and staging workup revealed osseous metastases to the lumbar spine and pelvis as well as small liver lesions consistent with metastases. She was started on palbociclib and fulvestrant and received palliative radiation to the spine and pelvis. Her disease had an initial mixed response but then progressed after about 10 months on that regimen.
+
+She was transitioned to capecitabine chemotherapy in April 2022 and had a partial response lasting about 8 months before further progression in the liver and new osseous lesions in the ribs and femurs were noted in January 2023. She was started on gemcitabine and carboplatin in February 2023 with an initial minor response but developed worsening bony pain and general malaise over the past several months. Restaging scans this week showed further increase in the size and number of the liver and bony metastases.
+
+CURRENT MEDICATIONS:
+Gemcitabine 1000 mg/m2 IV days 1 and 8
+Carboplatin AUC 5 IV day 1 (cycled every 21 days)
+Zoledronic acid 4 mg IV every 4 weeks
+Gabapentin 300 mg TID
+Oxycodone 5 mg Q4H PRN pain
+
+ALLERGIES:
+NKDA
+
+FAMILY HISTORY:
+Mother with breast cancer diagnosed at age 62
+No other significant family cancer history
+
+SOCIAL HISTORY:
+Former smoker, quit 15 years ago
+
+Occasional alcohol use
+Married, 2 adult children
+Retired accountant
+
+REVIEW OF SYSTEMS:
+General: Fatigue, malaise, decreased appetite
+HEENT: No complaints
+Respiratory: Mild dyspnea on exertion
+Cardiovascular: No chest pain, no edema
+Gastrointestinal: Occasional nausea, no vomiting, no changes in bowel habits
+Genitourinary: No issues
+Musculoskeletal: Bilateral hip pain radiating to thighs rated 6/10, mid-back pain
+Neurologic: No focal deficits
+Psychiatric: No issues
+Endocrine: No issues
+
+Heme/Lymphatic: No bleeding or easy bruising
+
+PHYSICAL EXAM:
+Vitals: T 98.4 F, HR 84, BP 132/78, RR 16, O2 sat 96% RA
+General: Cachectic appearance, poor nutritional status
+HEENT: PERRLA, EOMI, oropharynx clear
+Neck: Supple, no lymphadenopathy
+Lungs: Clear to auscultation bilaterally
+
+Cardiovascular: Regular rate and rhythm, normoactive precordium
+Abdomen: Scaphoid, soft, mildly tender in RUQ, no rebound or guarding
+Skin: No rashes, scattered ecchymoses on extremities
+Musculoskeletal: Antalgic gait, bony tenderness in bilateral hips, mid-back tenderness
+
+Neurologic: Strength 5/5 in all extremities, sensation intact, negative Romberg
+
+LABS:
+
+CBC: WBC 3.8 (ANC 2,100), Hgb 10.2, Plt 210
+CMP: Na 138, K 4.0, Cl 102, HCO3 28, Glu 94, BUN 16, Cr 0.8, Ca 9.8, ALT 45, AST 32, Alk Phos 320, Alb 3.2
+Tumor Markers: CA 27-29 240 (elevated), CEA 12 (normal)
+
+IMAGING:
+CT Chest/Abdomen/Pelvis (03/18/2024):
+Interval increase in size of innumerable hepatic metastases, now with conglomerate lesions in the right lobe measuring up to 8 cm. New pathologic fractures involving the right 8th rib and left acetabulum. Progression of sclerotic osseous lesions throughout axial and appendicular skeleton including worsening of known lesions in the lumbar spine, pelvis, proximal femurs, and new lesions in the humeri and calvarium.
+
+IMPRESSION/ASSESSMENT:
+
+Metastatic ER+ invasive ductal carcinoma of the right breast with progressive metastatic disease to the liver, bones, and brain despite multiple lines of systemic therapy
+Cachectic state
+Chemotherapy induced pancytopenia
+Hypercalcemia of malignancy
+Pathologic fractures of right 8th rib and left acetabulum
+Diffuse bony metastatic disease with high risk for additional fractures
+PLAN:
+
+Discontinue gemcitabine/carboplatin chemotherapy given evidence of disease progression
+Start duloxetine 30 mg daily for neuropathic pain
+Increase gabapentin to 600 mg TID
+Ensure adequate bowel regimen
+Add denosumab 120 mg SQ q4weeks for osseous metastases
+Radiation oncology consultation for palliative radiotherapy to spine and pelvis
+Orthopedic surgery consultation for possible fixation of acetabular fracture
+Nutrition consult for protein calorie supplementation
+Consider hospice evaluation
+F/u in 2 weeks to discuss future treatment options and transition to comfort measures"
+"A patient with a history of resected colorectal cancer is seen in follow-up by his medical oncologist. Surveillance imaging shows recurrence in locoregional lymph nodes. Generate a lengthy, detailed synthetic progress note for that encounter, including an oncologic history, current symptoms, multi-system physical exam, extensive laboratory studies, imaging reports, and an assessment/plan.","PROGRESS NOTE
+
+Patient: John Doe
+DOB: 01/01/1960 (63 yo M)
+
+MRN: 12345
+
+CC: Follow-up for recurrent colorectal cancer
+
+ONCOLOGIC HISTORY:
+Mr. Doe is a 63-year-old male with a history of colorectal adenocarcinoma, initially diagnosed in April 2020 after presenting with hematochezia and anemia. He underwent a low anterior resection with coloanal anastomosis and loop ileostomy in May 2020. Surgical pathology showed a moderately differentiated adenocarcinoma extending through the muscularis propria into the pericolic adipose tissue (pT3). Fourteen of 22 regional lymph nodes were positive for metastatic carcinoma (pN2a). Staging was pT3 pN2a M0, stage IIIC. He received adjuvant FOLFOX (5-FU, leucovorin, oxaliplatin) chemotherapy from July-December 2020, completing 12 cycles. His ileostomy was reversed in January 2021. Surveillance CEA levels and CT scans of the chest/abdomen/pelvis were unremarkable until the most recent scans.
+
+CURRENT SYMPTOMS:
+Mr. Doe reports having intermittent left lower quadrant abdominal pain over the past 2 months, describing it as a dull, achy discomfort rating 4/10 in severity. He denies nausea, vomiting, changes in bowel habits, or rectal bleeding. He also notes a 5-pound unintentional weight loss over the past few months despite a good appetite. He has no fevers, chills, or night sweats.
+
+MEDICATIONS:
+
+No medications
+ALLERGIES:
+
+No known drug allergies
+FAMILY HISTORY:
+
+Mother with breast cancer
+Father with prostate cancer
+No other cancers in first-degree relatives
+SOCIAL HISTORY:
+
+Former 30 pack-year cigarette smoker, quit 10 years ago
+Occasional alcohol use
+Retired accountant
+ROS:
+Negative except as noted in the current symptoms.
+
+PHYSICAL EXAM:
+
+Vitals: T 98.6°F, BP 134/82, HR 78, RR 16, SpO2 98% on RA
+
+General: Comfortable-appearing, mild distress with abdominal palpation
+
+HEENT: Normocephalic, atraumatic, moist mucous membranes, no oropharyngeal lesions. Neck supple, no lymphadenopathy.
+
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs/gallops/rubs
+
+Pulmonary: Clear to auscultation bilaterally, no increased work of breathing
+
+Abdomen: Soft, mild left lower quadrant tenderness to deep palpation, no guarding/rebound, normoactive bowel sounds, no masses
+
+Neurologic: Nonfocal, symmetric strength/sensation/reflexes in all 4 extremities
+
+Skin: No rashes or concerning lesions
+
+LABS:
+
+CBC:
+WBC 5.8 k/uL
+
+Hgb 11.2 g/dL
+Plt 285 k/uL
+
+CMP:
+
+Na 138 mmol/L
+K 4.2 mmol/L
+Cl 101 mmol/L
+
+CO2 26 mmol/L
+BUN 16 mg/dL
+Cr 1.0 mg/dL
+Glu 102 mg/dL
+
+Ca 9.4 mg/dL
+Alb 4.1 g/dL
+TBili 0.6 mg/dL
+ALP 78 U/L
+AST 22 U/L
+ALT 31 U/L
+
+CEA: 28 ng/mL (0-3 normal range)
+
+IMAGING:
+
+CT Abdomen/Pelvis with Contrast (Today's Date):
+
+IMPRESSION:
+
+Interval development of multiple enlarged lymph nodes in the left perirectal/pelvic sidewall region measuring up to 2.8 cm (previously unremarkable on prior imaging), concerning for lymph node metastases.
+No evidence of local recurrence at the prior surgical anastomotic site.
+No other evidence of distant metastatic disease.
+ASSESSMENT/PLAN:
+
+Recurrent colorectal adenocarcinoma with locoregional lymph node metastases, based on significantly elevated CEA level and new enlargement of left pelvic lymph nodes on CT imaging compared to prior studies.
+I have discussed this with the patient in detail, including the likely need for systemic chemotherapy given the apparent oligometastatic relapse pattern. Although surgical resection may potentially be an option depending on multidisciplinary tumor board review, the location and number of positive nodes may preclude complete cytoreduction.
+The patient understands and wishes to proceed with further treatment. We have obtained expedited approval for testing on the prior surgical specimen for RAS/BRAF mutational status to guide systemic therapy choices.
+I have obtained informed consent and placed orders today for:
+Tumor genomic testing (RAS/BRAF/MSI/MMR) on existing surgical specimen
+Repeat CT chest/abdomen/pelvis with IV contrast in 2 weeks
+Anal/pelvic MRI with IV contrast
+Tumor board review to discuss optimal treatment approach
+We will reconvene after the above testing is complete to discuss therapies in more detail. Likely treatment options will include:
+Combination chemotherapy (e.g. FOLFIRI or FOLFOX if RAS/BRAF wildtype)
+Possible addition of biologic agent (e.g. cetuximab, panitumumab) if RAS wildtype
+Consideration of radiation therapy ± chemosensitization
+Possibility of surgical resection if complete cytoreduction feasible per tumor board assessment
+The patient agrees to proceed with an aggressive, multidisciplinary approach. We will continue close outpatient follow-up."
+"A patient with metastatic bladder cancer to lymph nodes, bone, and lung is seen in follow-up by her medical oncologist. Restaging imaging demonstrates response to therapy. Generate a lengthy, detailed synthetic progress note for that encounter, including an oncologic history, current symptoms, multi-system physical exam, extensive laboratory studies, imaging reports, and an assessment/plan.","SUBJECTIVE:
+patient is a 68-year-old female with metastatic bladder urothelial carcinoma, initially diagnosed in November 2022 after presenting with gross hematuria. She underwent neoadjuvant chemotherapy with dose-dense MVAC (methotrexate, vinblastine, doxorubicin, cisplatin) followed by radical cystectomy and bilateral pelvic lymph node dissection in February 2023. Pathology showed pT3bN2 high-grade urothelial carcinoma with extravesical extension and 4/22 pelvic lymph nodes positive. She was then started on adjuvant pembrolizumab immunotherapy in April 2023.
+
+In July 2023, restaging CT scan demonstrated new metastatic lesions in the lung, bone (right femur), and retroperitoneal lymph nodes. She was started on combination chemotherapy with gemcitabine and cisplatin along with denosumab for bone metastases. After 4 cycles, a CT scan in October 2023 revealed mixed response with slight progression of the lung lesions.
+
+Her treatment was changed to enfortumab vedotin-ejfv in November 2023. The patient reports currently feeling well overall, with good energy and appetite. She endorses occasional mild nausea but denies vomiting, diarrhea, or constipation. She notes some persistent mild right hip pain but no new bone pain. She denies cough, shortness of breath, or weight loss.
+
+OBJECTIVE:
+
+Vitals:
+Temp 98.2 F | BP 132/78 | HR 76 | RR 14 | SpO2 96% RA
+
+General: Pleasant female, appears stated age, no acute distress
+
+HEENT: Normocephalic, atraumatic, moist mucous membranes, no conjunctival pallor, no cervical lymphadenopathy
+
+Lungs: Clear to auscultation bilaterally
+
+Cardiac: Regular rate and rhythm, no murmurs
+
+Abdomen: Soft, non-tender, no hepatosplenomegaly, no masses
+
+Musculoskeletal: Right hip pain with internal/external rotation, no leg swelling
+
+Skin: No rashes or lesions
+
+Neurologic: Non-focal
+
+Laboratory Studies:
+CBC:
+WBC 5.2 k/uL
+Hgb 11.9 g/dL
+Plt 202 k/uL
+
+CMP:
+
+Na 140 mEq/L
+K 4.1 mEq/L
+Cl 102 mEq/L
+CO2 28 mEq/L
+BUN 16 mg/dL
+Cr 0.92 mg/dL
+
+LFTs normal
+Ca 9.1 mg/dL
+
+Imaging:
+CT Chest/Abdomen/Pelvis (03/12/2024):
+-Stable small right lower lobe lung nodule
+-No new pulmonary lesions
+-Stable sclerotic focus in right femoral neck consistent with known bone met
+-Near complete resolution of previously seen retroperitoneal lymphadenopathy
+
+ASSESSMENT & PLAN:
+68 year old female with metastatic bladder urothelial carcinoma, status post neoadjuvant chemotherapy and radical cystectomy in early 2023, now with known metastases to lung, bone, and lymph nodes. The patient is currently receiving enfortumab vedotin with overall favorable treatment response based on today's restaging CT imaging.
+
+Continue enfortumab vedotin every 3 weeks
+Continue denosumab monthly for bone metastasis
+Schedule repeat CT imaging in 3 months
+Discuss potential enrollment in clinical trial with novel immunotherapy combination if disease progresses
+Recommend maintaining physical activity as tolerated, ensure adequate calcium/vitamin D intake
+Follow up in 4 weeks, sooner for any new/worsening symptoms"
+"A patient with clear cell renal cell carcinoma metastatic to brain, status post prior whole brain radiation, is seen in follow-up by his medical oncologist. Restaging MRI brain demonstrates disease progression. Generate a lengthy, detailed synthetic progress note for that encounter, including an oncologic history, current symptoms, multi-system physical exam, extensive laboratory studies, imaging reports, and an assessment/plan.","Patient: John Doe
+DOB: 01/01/1970
+MRN: 123456
+
+Chief Complaint: Follow-up for metastatic clear cell renal cell carcinoma with brain metastases
+
+Oncologic History:
+Mr. Doe is a 54-year-old male with a past medical history notable for clear cell renal cell carcinoma, diagnosed in 2021 after presenting with hematuria. He underwent a right radical nephrectomy at that time, with pathology revealing a 6.5 cm clear cell renal cell carcinoma, Fuhrman grade 3, with sarcomatoid differentiation and extension into the perinephric fat (pT3a).
+
+He had an initial disease-free interval but developed widespread metastatic disease in 2022 with lesions identified in the lungs, liver, and brain on restaging scans. He received whole brain radiation in July 2022 for numerous brain metastases, as well as initiating systemic therapy with cabozantinib.
+
+His treatment course was complicated by significant adverse effects from the cabozantinib, including fatigue, diarrhea, hand-foot syndrome, and uncontrolled hypertension, requiring multiple dose reductions. Therapy was discontinued in November 2022 due to intolerance.
+
+He was then treated with second-line nivolumab starting in December 2022, with an initial mixed response on scans in February 2023 showing slight progression of some lesions and regression of others.
+
+Current Symptoms:
+Mr. Doe reports increased headaches, nausea, and intermittent word-finding difficulties over the past 3 weeks. He denies fever, vision changes, or focal weakness/numbness.
+
+Medications:
+
+Nivolumab 480 mg IV q4 weeks
+Ondansetron 8 mg daily as needed for nausea
+Ibuprofen 600 mg q6h prn for headaches
+Allergies: No known drug allergies
+
+Vitals:
+Temp 98.2 F, BP 142/88, HR 82, RR 16, SpO2 96% on room air
+Weight 178 lbs (no significant change)
+
+Physical Exam:
+General: Alert and oriented x3. Mild distress secondary to headache.
+Head and Neck: Normocephalic, atraumatic. Tenderness to palpation over occipital region.
+Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs/gallops/rubs.
+Pulmonary: Clear to auscultation bilaterally, no wheezes/rhonchi/rales.
+Abdomen: Soft, non-tender, no hepatosplenomegaly. Well-healed right subcostal incision.
+Musculoskeletal: Full strength in all 4 extremities, no focal deficits.
+Neuro: Cranial nerves II-XII intact. No sensory deficits. Mild naming difficulty but fluent speech otherwise. Intact language comprehension.
+
+Labs:
+CBC:
+WBC 6.8 k/uL
+
+Hgb 11.2 g/dL
+Platelets 210 k/uL
+
+CMP:
+
+Na 137 mmol/L
+K 4.1 mmol/L
+
+Cl 102 mmol/L
+CO2 26 mmol/L
+BUN 22 mg/dL
+
+Cr 1.1 mg/dL
+Glu 98 mg/dL
+Ca 9.4 mg/dL
+
+LFTs:
+AST 35 U/L
+ALT 28 U/L
+Alk Phos 112 U/L
+Tbili 0.9 mg/dL
+
+Imaging:
+Brain MRI (3/19/2024): Interval progression of multiple enhancing mass lesions throughout the bilateral cerebral and cerebellar hemispheres compared to prior MRI from 2/15/2023, with several lesions demonstrating increased size, edema, and mass effect. The largest lesion is a 3.8 x 3.2 cm heterogeneously enhancing mass centered within the left parietal lobe with significant surrounding vasogenic edema and subfalcine herniation. There is also a large hemorrhagic left cerebellar mass measuring 2.7 cm and numerous smaller enhancing lesions diffusely involving the cerebral hemispheres bilaterally. Findings are consistent with progressive metastatic disease.
+
+Chest/Abdomen CT (3/12/2024): Stable to slightly increased size of pulmonary metastases bilaterally compared to prior, with the largest lesions in the right upper lobe measuring up to 2.4 cm and a 3.1 cm lesion in the left lower lobe. New hydropic changes within the liver consistent with progressive hepatic metastases, with a dominant lesion in segment 8 measuring 5.2 cm.
+
+Assessment:
+
+Metastatic clear cell renal cell carcinoma with progressive brain metastases
+Progressive systemic metastases in lungs and liver
+Plan:
+
+Initiate high-dose dexamethasone 16 mg PO/IV daily for cerebral edema
+Increase ondansetron to 8 mg TID scheduled for nausea prophylaxis
+Obtain neurosurgery and radiation oncology consultations to evaluate for surgical resection and/or stereotactic radiosurgery for large symptomatic brain lesions
+If not a candidate for local therapy, consider change in systemic regimen to cabozantinib and nivolumab combination immunotherapy per CBRPM updated guidelines
+Close follow-up for clinical status, schedule brain MRI in 2 weeks"
