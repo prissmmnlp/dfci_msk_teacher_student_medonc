@@ -4,7 +4,7 @@ This repository contains training and inference code for extracting cancer outco
 
 Preprocessing code is included but would need to be modified to work on external EHR data depending on its data delivery format.
 
-To run inference, use the file 4_external_medonc_inference.ipynb. You will need a dataset containing a column labeled "text", in which each observation corresponds to the oncologist note on which you would like to run inference.
+To run inference, use the file 4_external_medonc_inference.ipynb. You will need a dataset containing a column labeled "text", in which each observation corresponds to the oncologist note on which you would like to run inference. The notebook currently runs inference on synthetic_example_medonc_data.csv, yielding output file synthetic_example_medonc_inference_results.csv .
 
 Student model weights can be obtained from https://huggingface.co/kenlkehl/dfci-student-medonc .  A Docker image that will run inference on a synthetic dataset of five oncologist notes is also available there.
 
