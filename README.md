@@ -12,3 +12,6 @@ The model will output predicted logits (log odds) that the following outcomes ar
 1) Any cancer
 2) Response to therapy/improving cancer
 3) Progression of disease/worsening cancer
+
+The repo also contains notebooks that perform a simple version of membership inference attack to illustrate privacy risk of classification models and mitigation by the teacher-student distillation approach. These notebooks contain "membership_inference_demo" in their file names.
+
